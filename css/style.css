@@ -130,7 +130,7 @@ body{
 .top{
 	transition: width .3s ease;
 	width: calc(100% - 0px);
-	height: -2px;
+	height: 100px;
 	float: right;
 	background-color: #fff;
     box-shadow: 0 0 10px #0000000d;

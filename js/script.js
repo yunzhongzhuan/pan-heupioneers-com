@@ -425,6 +425,15 @@ if( session_id != undefined && session_id != null && session_id != "" ){
 let top_apps = [
 
 	{
+		"name":"KUOCAI",
+		"link":"https://KUOCAITM.NET",
+		"description":"KUOCAI",
+		"icon":"https://www.kuocaitm.net/img/gslogo.png",
+		// "icon":"//tva1.sinaimg.cn/mw2000/005CbWF8gy1h16lkvt5ubj30go0goq4h.jpg",
+		"new_open":true
+	},
+
+	{
 		"name":"heupioneers",
 		"link":"https://pan.heupioneers.com",
 		"description":"heupioneers CLOUD",

@@ -1533,7 +1533,7 @@ function copy_text(text){
 // 当前网站官方网站地址
 let web_url = window.location.protocol + "//" + window.location.href.split('://')[1].split('/')[0];
 let download_web_url = window.location.protocol + "//download.yunzhongzhuan.com";
-let upload_web_url = window.location.protocol + "//http.pan.heupioneers.com";
+let upload_web_url = window.location.protocol + "//upload.pan.heupioneers.com";
 
 let api_upload_web_url;
 // 初始化上传地址的 iframe
